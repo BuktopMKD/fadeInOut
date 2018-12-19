@@ -1,4 +1,4 @@
-package com.xtrid.www.blogfadeinoutanimation;
+package com.denofdevelopers.www.blogfadeinoutanimation;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;

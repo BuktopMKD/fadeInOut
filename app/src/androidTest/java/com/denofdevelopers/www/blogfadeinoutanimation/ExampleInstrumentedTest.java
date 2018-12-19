@@ -1,4 +1,4 @@
-package com.xtrid.www.blogfadeinoutanimation;
+package com.denofdevelopers.www.blogfadeinoutanimation;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
