@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlogFadeInOutAnimation</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="fadeInOutAnim">Fade in - Fade out Animation</string>
+    <string name="stop">Stop</string>
+    <string name="resume">Resume</string>
+    <string name="signature">by Viktor Jovanovski</string>
+</resources>
